@@ -1,0 +1,1 @@
+My firstday in C
